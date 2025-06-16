@@ -96,7 +96,8 @@ The project effectively integrates supervised and unsupervised learning techniqu
 
 ```bash
 📁 project/
-├── data/                   # Raw and cleaned datasets
-├── notebooks/              # Jupyter notebooks for EDA and modeling
-├── report/                 # PDF of final report
-└── README.md               # This file
+├── data/                              # Raw and cleaned datasets
+├── notebooks/                         # Jupyter notebooks for EDA and modeling
+├── report/                            # PDF of final report
+├── variable_description (italian)     # PDF with the descptition variables in Italian
+└── README.md                          # This file
