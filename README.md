@@ -101,3 +101,10 @@ The project effectively integrates supervised and unsupervised learning techniqu
 ├── report/                            # PDF of final report
 ├── variable_description (italian)     # PDF with the descptition variables in Italian
 └── README.md                          # This file
+```
+
+##  License
+
+This project is developed for academic purposes and is shared under the MIT License.
+
+---
