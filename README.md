@@ -1,4 +1,4 @@
-# DATA_SCEINCE_LAB
+# DATA_SCIENCE_LAB
 # Financial Literacy Data Analysis  
 **Data Science Lab Project – Master's Degree in Data Science**  
 **Università degli Studi di Milano - Bicocca**  
