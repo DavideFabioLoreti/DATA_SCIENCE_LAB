@@ -2,7 +2,6 @@
 **Data Science Lab Project – Master's Degree in Data Science**  
 **Università degli Studi di Milano - Bicocca**  
 **Author**: Davide Fabio Loreti  
-**Date**: June 14, 2025  
 
 ## Overview
 
