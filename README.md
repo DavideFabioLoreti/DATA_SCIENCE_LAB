@@ -95,7 +95,7 @@ The project effectively integrates supervised and unsupervised learning techniqu
 
 ```bash
 📁 project/
-├── Database.csv/                        # Raw and cleaned datasets
+├── Database.csv/                        # Raw dataset
 ├── DS LAB PROJECT.ipynb/                # Jupyter notebooks for EDA and modeling
 ├── DATA SCIENCE LAB PROJECT.pdf/        # PDF of final report
 ├── variable_description (italian)       # PDF with the descptition variables in Italian
