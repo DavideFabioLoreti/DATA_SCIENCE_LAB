@@ -53,7 +53,7 @@ The analysis combines:
 - **Class Balancing**: SMOTE (k=3, 90% target) + Conservative UnderSampling (1.05:1 ratio)
 
 ### Machine Learning Models
-- **XGBoost Balanced**: `n_estimators=180, max_depth=4, learning_rate=0.07`
+- **XGBoost**: `n_estimators=180, max_depth=4, learning_rate=0.07`
 - **Random Forest**: `n_estimators=250, max_depth=9, max_features='sqrt'`  
 - **Logistic Regression**: class weighting (3.0:1 ratio)
 - **Gradient Boosting**: `n_estimators=150, learning_rate=0.08`
